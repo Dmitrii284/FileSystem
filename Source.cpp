@@ -4,9 +4,9 @@
 #include<sstream>
 
 //Task 1 
-bool statistic(std::string str) {// Прототип
+bool statistic(std::string str);// Прототип
 
-}
+
 
 
 int main() {
